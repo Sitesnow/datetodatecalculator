@@ -45,6 +45,7 @@
 	img {
 	border: 0;
 	}
+	
 	h1 {
 	color: #000;
 	font-size: 38px;
@@ -358,6 +359,12 @@
 	margin-bottom: 0;
 	color: #4a4fb1;
 	font-weight: 400;
+	}
+
+	.imagecal
+	{
+       margin-top: 6px;
+	   cursor: pointer;
 	}
 	.results-text {
 	position: relative;
